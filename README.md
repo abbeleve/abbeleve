@@ -1,8 +1,8 @@
-# Привет! Меня зовут Андрей Александров 👋
+# Hello! My name is Andrey Aleksandrov 👋
 
 Я **NLP/ML Engineer**, специализируюсь на построении end-to-end систем обработки аудио и текста.
 
-## 🛠 Мой стек
+## 🛠 My stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 </p>
 
-## 📊 Статистика и активность
+## 📊 Activity Charts and statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbeleve&theme=radical" alt="Streak Stats" />
