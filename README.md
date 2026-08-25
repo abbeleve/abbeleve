@@ -1,6 +1,11 @@
 # Hello! My name is Andrey Aleksandrov 👋
 
-Я **NLP/ML Engineer**, специализируюсь на построении end-to-end систем обработки аудио и текста.
+I graduated with a Bachelor's degree in Computer Science and Engineering (09.03.01) from IRNITU, while simultaneously studying at MIPT (Moscow Institute of Physics and Technology) in Intelligent Information Processing and Control Systems. Additionally, I completed retraining courses through Softline IT Academy and earned a professional qualification diploma.
+Currently, I'm pursuing my Master's degree at ITMO University in the AI Talent Hub program, specializing in Artificial Intelligence.
+Focus Areas
+Machine Learning & AI: LLMs, NLP, Computer Vision, Generative AI
+Problem Solving: Active LeetCode practitioner
+Competitions: Kaggle participant
 
 ## 🛠 My stack
 
